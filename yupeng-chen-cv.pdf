@@ -1,90 +1,297 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R ]
+/Contents 6 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://yupray.github.io/)
->> /Border [ 0 0 0 ] /Rect [ 128.9855 730.4898 163.8315 741.8898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057yupray\056github\056io\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 128.9855 730.4898 163.8315 741.8898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://www.linkedin.com/in/yupengchen2000/)
->> /Border [ 0 0 0 ] /Rect [ 171.5835 730.4898 207.4935 741.8898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057www\056linkedin\056com\057in\057yupengchen2000\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 171.5835 730.4898 207.4935 741.8898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Annots [ 4 0 R 5 0 R ] /Contents 10 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 3735
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 51 761.8898 cm
+q
+.145098 .286275 .215686 rg
+BT 1 0 0 1 0 4 Tm /F2 27 Tf 31 TL (Yupeng Chen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 746.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 11 Tf 15 TL (Industrial Solutions, Robotics and Operations Analytics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 728.8898 cm
+q
+BT 1 0 0 1 0 3.5 Tm 13 TL /F1 9.5 Tf 0 0 0 rg (Shanghai, China | ) Tj .145098 .286275 .215686 rg (Portfolio) Tj 0 0 0 rg ( | ) Tj .145098 .286275 .215686 rg (LinkedIn) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 720.8898 cm
+q
+1 w
+1 J
+.145098 .286275 .215686 RG
+n 0 0 m 493.2756 0 l S
+Q
+Q
+q
+1 0 0 1 51 693.8898 cm
+q
+.145098 .286275 .215686 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (EXPERIENCE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 674.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (QuickTron Robotic | 2026\226present) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 659.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (SR Solution Responsibility Engineer and Supply Chain Manager) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 639.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (SANY Group | April\226July 2026 | Johannesburg, South Africa) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 611.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Key Account Program Manager / Solution Manager. Built CAPEX and OPEX models and compared haulage,) Tj T* (conveying and phased investment options for stakeholder review.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 591.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Apple | 2025 | Guangzhou, China) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 563.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.5 Tm /F1 9.5 Tf 13 TL (Mechanical Quality Engineer / Project Coordinator. Prepared production and defect data and built Tableau) Tj T* (dashboards to track black-line defects by site, extruder and casting lot.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 543.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Deloitte | 2023\2262024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 528.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Consulting Analyst / PMO Support) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 501.8898 cm
+q
+.145098 .286275 .215686 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (SELECTED ACADEMIC PROJECT) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 482.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (BCG X \327 IE University | 2024\2262025 | Madrid, Spain) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 441.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 29.5 Tm /F1 9.5 Tf 13 TL (Master\222s capstone on telecom churn. Translated retention questions into analytical requirements, validated data and) Tj T* (model outputs, and used SHAP to interpret churn drivers. The team delivered a reusable Python classifier and a) Tj T* (Streamlit prototype.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 414.8898 cm
+q
+.145098 .286275 .215686 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 395.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (IE University | 2024\2262025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 380.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (MSc in Business Analytics and Big Data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 360.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 10 Tf 13 TL (Grenoble Ecole de Management | 2020\2262023) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 345.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (BSc in International Business, economics minor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 318.8898 cm
+q
+.145098 .286275 .215686 rg
+BT 1 0 0 1 0 4 Tm /F2 11 Tf 15 TL (SKILLS AND LANGUAGES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 299.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Industrial solution planning, key account strategy, manufacturing quality analytics, Tableau, SQL, Python and SHAP.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51 279.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3.5 Tm /F1 9.5 Tf 13 TL (Mandarin Chinese \(native\), English \(fluent\), French \(fluent\).) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 7 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/F1 8 0 R
+/F2 9 0 R
 >>
 endobj
 8 0 obj
 <<
-/Author (Yupeng Chen) /CreationDate (D:20261113164912+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261113164912+08'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Yupeng Chen | CV) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Count 1 /Kids [ 6 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1529
+/Author (Yupeng Chen)
+/CreationDate (D\07220261113164912\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261113164912\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (Yupeng Chen \174 CV)
+/Trapped /False
 >>
-stream
-Gatm;D,]Fb&H;+$k`>'FLEqNY+!YAX>Z:j-Ei]*n,QjHWR#1Fo*`r*rY@e+lghHE3/P9L7Xa?XgqWT>W2LY`-SZMq<kA^8XJ09O@&q[%s_0c[Ur8d)fW)e'D3/`DiYLi7%%\.29;7DN<XfrUsB3flhh7+8R>+OSc_;5/5[Dp*O#g_;bS\Q9%phEGO<\Pr#p]U2,0`TCc]>`+$aXB>,g%H)_(dRNlmsWe,(l@$_UDVrDPM@''Kl4b,/u2pD"sS)t.B+M?!YRfo`_FrD'D;p+3V&lml8gSMNjJ,#l+;Kmlo^$BX<:tP&D"c]1I9r;n>9M^&K2=^bYiI.rQ63P]k?f$M+="qlG3qa#PSP_48rO")V=6C7/4H2M#*YX:<!![kl1>7)!=+KPbU48pQK\[9!8J6h,WI@kY7Xjp?/p`q*%i=>Ka=m\WUFB%7E-kL[d_K`hfDu$<(`MgOIuIQ5g.:W,0eWHZ$]bl4TN+(5t&UJQ/_<TN$32c>6YS%2+FM!EV[N'ihY:Fl)*,MeL=tl`W!AdZt/+;C][,%[Rs54&Bnc;Bh5,eI/EY9m#9]!g9Bh)6*9W#i>2%LgS'a$f+(2A^Unf'.$_;XEQA6kmn'#Tba/&`XN?>8UA-GFSF*bk*0ct5EkDr.%3Lh/B9?eSa28/MJ'M/W(_)7=V-Rn(li=:7OEX:[sG<D$FCt;[#dC?0,/hHoR!VKJo:U*#[S!5K$gK#>'BEj[&>7"("-,\;JS,WHiWmkRUNETZlEs83TfG&Mo7QC+jNuc*;qQ(Tq<aEKsjr9\!`;8K/0>t[l,Ugq"KIQd@;aI-$BfK:3<b&7-,>G"J\N]#Rc[M^N6bc*MQuI!R2$i!r^RrRo`aU&T(e6\2<l0Lu-/4jZm'I/t"Fo/35C@n/9ap4/s1u;]c3729YrpI"B_c_1$Oe"TaNKXl8u/MY3)9cdHeoR&:a^%$HP@C,CI_o]?dAl5YV+iD7<Q9&WOLB<&=Kgd;;cL\&=nm^KDj($mOfY"5]tN\XS.1=eK"]q'OZs4'4sAl48*6]EWI[?4!L,dsD:U6\&F==%-)=%$^s%'j5;K6#qls("tg]OijKS0h72JLRGZP@]V4?,=hI)=oBQHZqKUcO-j\J4a$L\'f9P3aJ3QO\B#Oi5&B$XYO*N!&8KOTgJuP+&OS/^Dk$Q"O1-;dLITC;kSa\-X*i&X0QCl-]ONk\/2L.jg("\;psC4MLt'D<W.if5r'P<>h9k[oXhkk@E5aT[Ff9pHo>?V1(4m5-]M<,%sh!3q`.ls"\-5WI/FKG04&n%W/rXqBdUA(d]-FGU?:q%Y3t2HFWbu8iih2<I!bmUA#o*I2^Z?N%FfF"]lNMu=>M+9qjU@-qfUWdAMbIS+M#4:EH44T98;]4c?@k?5f7g8UI=R^QBG`BKbE9r7r36;e`Pd>'SFr5$#:aOP%;Q^<sP=s3kWoR"Kj5KW.MM=jt<]_gPG]&S$Cr*#O[0HapIq*Rh4qMiM#5)qFhtp2-l]eR4`GpaXqPWNI=8+AqrbRp'jdr!@0bE.K~>endstream
 endobj
 xref
 0 11
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000498 00000 n 
-0000000693 00000 n 
-0000000921 00000 n 
-0000000989 00000 n 
-0000001270 00000 n 
-0000001329 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000365 00000 n 
+0000000560 00000 n 
+0000000779 00000 n 
+0000004566 00000 n 
+0000004607 00000 n 
+0000004714 00000 n 
+0000004826 00000 n 
 trailer
 <<
-/ID 
-[<f81e7540e0d8d43d0c595875f918dc70><f81e7540e0d8d43d0c595875f918dc70>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 8 0 R
-/Root 7 0 R
 /Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <f81e7540e0d8d43d0c595875f918dc70> <f81e7540e0d8d43d0c595875f918dc70> ]
 >>
 startxref
-2950
+5147
 %%EOF
